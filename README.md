@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Iwegbu Jeddy</h1>
+<h1 align="center">Howdy! 👋, I'm Iwegbu Jeddy</h1>
 <h3 align="center">A software developer, currently learning web technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashkitti001&label=Profile%20views&color=0e75b6&style=flat" alt="hashkitti001" /> </p>
