@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iwegbu Jeddy</h1>
-<h3 align="center">A web developer who works with JavaScript and Python, and any other languages the future holds</h3>
+<h3 align="center">A software developer, currently learning web technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashkitti001&label=Profile%20views&color=0e75b6&style=flat" alt="hashkitti001" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hashkitti0" target="blank"><img src="https://img.shields.io/twitter/follow/hashkitti0?logo=twitter&style=for-the-badge" alt="hashkitti0" /></a> </p>
 
-- 💬 Ask me about **JavaScript, Python and Lua**
+- 💬 Ask me about **JavaScript and Python**
 
 - 📫 How to reach me **ijeddy5.0@gmail.com**
 
