@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## I'm Iwegbu Jeddy
 A software developer, currently working with web technologies <br>
-I'm looking to collaborate on open source web projects<br>I'm currently learning React.js, Python and C<br>Ask me about Python and JavaScript<br>Fun fact: I'm obsessed with even numbers
+I'm looking to collaborate on open source web projects for now<br>I'm currently learning React.js, Python and C<br>Ask me about Python and JavaScript<br>Fun fact: I'm obsessed with even numbers
 
 
 ## 🌐 Socials:
