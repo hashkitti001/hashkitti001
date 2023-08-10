@@ -1,5 +1,5 @@
 <div align="center">
-<iframe src="https://www.tenor.com/bUdy6.gif" align="center" style="width: 100%" />
+<img src="https://www.tenor.com/bUdy6.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -91,9 +91,11 @@ I finished playing Wolfenstein 3D in a day
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hashkitti001&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center" style="display:flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=hashkitti001&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashkitti001&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashkitti001&hide_border=true&layout=compact" style="width:50%"/>  
+</div> 
 
 <br/>  
  
