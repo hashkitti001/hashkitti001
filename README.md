@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.tenor.com/bUdy6.gif" align="center" style="width: 100%" />
+<div class="tenor-gif-embed" data-postid="25752502" data-share-method="host" data-aspect-ratio="1.15942" data-width="100%"><a href="https://tenor.com/view/miku-hello-wave-anime-gif-25752502">Miku Hello GIF</a>from <a href="https://tenor.com/search/miku-gifs">Miku GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>  
   
 
