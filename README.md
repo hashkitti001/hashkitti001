@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://tenor.com/bUdy6.gif " align="center" style="width: 100%" />
+<img src="https://tenor.com/bUdy6.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Jeddy, a software developer 👨‍💻 </div>  
+### <div align="center">I'm Iwegbu Jeddy, a software developer 👨‍💻 </div>  
   
 
 -   
@@ -96,28 +96,6 @@ I finished playing Wolfenstein 3D in a day
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashkitti001&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
+ 
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=hashkitti001&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
