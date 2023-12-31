@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **Python and JavaScript**
 
-- ⚡ Fun fact **i have a weird obsession with even numbers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
