@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iwegbu Jeddy</h1>
-<h3 align="center">Software developer (Web)</h3>
+<h3 align="center">Backend developer (Web)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashkitti001&label=Profile%20views&color=0e75b6&style=flat" alt="hashkitti001" /> </p>
 
@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hashkitti0" target="blank"><img src="https://img.shields.io/twitter/follow/hashkitti0?logo=twitter&style=for-the-badge" alt="hashkitti0" /></a> </p>
 
-- 🌱 I’m currently learning **Python,Express.js and React.js**
-
-- 👯 I’m looking to collaborate on **open source web projects**
+- 🌱 I’m currently learning **API development with Node.js and API integration**
 
 - 💬 Ask me about **Python and JavaScript**
 
