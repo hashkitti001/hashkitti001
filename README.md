@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashkitti001" alt="hashkitti001" /></a> </p>
 
-- 🌱 I’m currently learning **API development with Node.js && experimenting with mobile development with React Native**
+- 🌱 I’m currently learning **API development with Node.js (Express.js and Nest.js) && TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hashkitti001](https://github.com/hashkitti001)
 
